@@ -43,7 +43,6 @@ This project is a console-based quiz application developed using Python and MySQ
 - Basic backend logic implementation
 
 ## Author
-=======
 # Quiz Management System (Python + MySQL)
 
 ##  Description
@@ -88,5 +87,4 @@ This project is a console-based quiz application developed using Python and MySQ
 - Basic backend logic implementation
 
 ## Author
->>>>>>> 279f093024b274cd995763c0abaeaed2cbc02f49
 Anjali Srivastava
