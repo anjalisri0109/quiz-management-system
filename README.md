@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Quiz Management System (Python + MySQL)
 
 ##  Description
