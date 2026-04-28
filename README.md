@@ -1,5 +1,5 @@
 
-# Quiz Management System (Python + MySQL)
+# Learn with Fun-DatabaseDriven Quiz (Python + MySQL)
 
 ##  Description
 This project is a console-based quiz application developed using Python and MySQL. It allows users to attempt quizzes across different difficulty levels (Easy, Medium, Hard) and provides an admin interface to manage quiz questions.
